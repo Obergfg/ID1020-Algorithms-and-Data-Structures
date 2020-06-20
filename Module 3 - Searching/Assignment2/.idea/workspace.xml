@@ -1,8 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="166fa73d-96ba-4ba8-a499-9f32148edf83" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="166fa73d-96ba-4ba8-a499-9f32148edf83" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 0 - Preporatory Lab/Assignment4a$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 0 - Preporatory Lab/Assignment4a.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 0 - Preporatory Lab/Assignment4b$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 0 - Preporatory Lab/Assignment4b.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 0 - Preporatory Lab/Assignment5$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 0 - Preporatory Lab/Assignment5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/BinarySearchST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/BinarySearchTree$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/BinarySearchTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/ExtendedFrequencyCounterST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/FrequencyCounterBinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/FrequencyCounterLinearProbingHash.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/FrequencyCounterRedBlackTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/FrequencyCounterST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/FrequencyCounterSeparateChainingHash.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/HashTableDistributor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/IndexProgram.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/InsertSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/InsertSortInt.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/LinearProbingHashST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/META-INF/Assignment2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/Queue$ListIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/Queue$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/Queue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/RedBlackBST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/RedBlackBST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/SeparateChainingHashST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/SequentialSearchST$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/SequentialSearchST.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/StdIn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/StdOut.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Assignment2/the text.txt" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,24 +49,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
   <component name="ProjectId" id="1Qx9yIqvx3PdPr9HrcPLpvW1yK4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../Module 2 - Sorting/Lab/Assignment4" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.IndexProgram">
+  <component name="RunManager" selected="Application.FrequencyCounterLinearProbingHash">
     <configuration name="FrequencyCounterLinearProbingHash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FrequencyCounterLinearProbingHash" />
       <module name="Assignment2" />
@@ -70,13 +102,25 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FrequencyCounterLinearProbingHash" />
         <item itemvalue="Application.IndexProgram" />
         <item itemvalue="Application.HashTableDistributor" />
         <item itemvalue="Application.FrequencyCounterSeparateChainingHash" />
-        <item itemvalue="Application.FrequencyCounterLinearProbingHash" />
         <item itemvalue="Application.SequentialSearchST" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -90,5 +134,11 @@
       <updated>1568701632665</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1421" y="525" key="com.intellij.ide.util.TipDialog" timestamp="1592671940680">
+      <screen x="0" y="0" width="3440" height="1400" />
+    </state>
+    <state x="1421" y="525" key="com.intellij.ide.util.TipDialog/0.0.3440.1400/812.1440.1536.824@0.0.3440.1400" timestamp="1592671940680" />
   </component>
 </project>
